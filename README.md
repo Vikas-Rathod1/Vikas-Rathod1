@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vikas-Rathod1
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Python Machine Learning.
-- 💞️ I’m looking to collaborate on Pacts
+- 🌱 I’m currently learning Python AZURE Cloud.
+- 💞️ I’m looking to collaborate for AI Projects
 - 📫 How to reach me vikasrathodml@gmail.com
 
 <!---
