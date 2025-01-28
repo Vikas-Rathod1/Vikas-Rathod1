@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @Vikas-Rathod1
-- 👀 I’m interested in AI
+- I am currently working as a software engineer.
+
+- I am currently learning Natural Language Processing.
+
+- You can ask me about Python, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.
+
 - 🌱 I’m currently learning Python AZURE Cloud.
+  
 - 💞️ I’m looking to collaborate for AI Projects
+  
 - 📫 How to reach me vikasrathodml@gmail.com
 
 <!---
