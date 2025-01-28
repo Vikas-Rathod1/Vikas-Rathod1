@@ -1,14 +1,8 @@
-- I am currently working as a software engineer.
-
-- I am currently learning Genrative AI and Deployments.
-
-- You can ask me about Python, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.
-
-- 🌱 I’m currently learning Python AZURE Cloud.
-  
-- 💞️ I’m looking to collaborate for AI Projects
-  
-- 📫 How to reach me vikasrathodml@gmail.com
+💻 Currently Working: Software Engineer
+🤖 Learning: Generative AI and Deployment
+🐍 Expertise: Python, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing
+☁️ Exploring: Python and Azure Cloud
+🤝 Open to Collaboration: AI Projects
 
 <!---
 Vikas-Rathod1/Vikas-Rathod1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
