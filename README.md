@@ -1,6 +1,6 @@
 - I am currently working as a software engineer.
 
-- I am currently learning Natural Language Processing.
+- I am currently learning Genrative AI and Deployments.
 
 - You can ask me about Python, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.
 
