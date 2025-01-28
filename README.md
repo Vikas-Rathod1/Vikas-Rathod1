@@ -1,10 +1,8 @@
 💻 Currently Working: Software Engineer
 
-🤖 Learning: Generative AI and Deployment
-
 🐍 Expertise: Python, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing
 
-☁️ Exploring: Python and Azure Cloud
+🤖 Exploring: Generative AI and Deployment
 
 🤝 Open to Collaboration: AI Projects
 
