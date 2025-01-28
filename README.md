@@ -1,6 +1,6 @@
 💻 Currently Working: Software Engineer
 
-🐍 Expertise: Python, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing
+🐍 Expertise: Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and GenerativeAI
 
 🤖 Exploring: Generative AI and Deployment
 
